@@ -46,5 +46,6 @@ app.MapTokenEndpoints();
 app.MapEmployeeEndpoints();
 app.MapChecklistEndpoints();
 app.MapCompanyEndpoints();
+app.MapSamlEndpoints();
 
 app.Run();
