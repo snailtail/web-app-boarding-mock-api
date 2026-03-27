@@ -1,0 +1,6 @@
+instructions/*.md
+obj/
+bin/
+.claude/
+Properties/
+appsettings*.*
